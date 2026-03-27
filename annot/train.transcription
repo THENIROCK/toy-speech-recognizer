@@ -1,5 +1,5 @@
-train1.wav|yes no no no yes no no no yes yes 
+train1.wav|no yes no no yes no no yes yes no
 train2.wav|yes yes yes no no yes no yes no yes
-train3.wav|yes no yes no yes yes yes yes yes no
+train3.wav|yes no yes yes yes yes no no no no
 train4.wav|yes no no no yes yes no yes no yes
-train5.wav|no no yes no yes yes no yes yes no 
+train5.wav|no no yes no yes yes no yes yes no
